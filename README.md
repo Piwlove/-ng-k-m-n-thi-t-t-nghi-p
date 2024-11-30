@@ -26,7 +26,7 @@
 </tr>
 <tr> 
 <td> <label for="thongtin"> Mô tả thêm thông tin: </label> </td>
-<td> <textarea rows="5" cols="20" maxlength="300" name="thongtin" > </textarea></td>
+<td> <textarea rows="5" cols="20" maxlength="300" name="thongtin"> </textarea></td>
 </tr>
 <tr>
 <td> <label for="monthi"> Môn thi </label> </td>
